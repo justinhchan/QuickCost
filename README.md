@@ -1,7 +1,7 @@
 # QuickCost
 An iOS app that does simple purchase computations.
 
-![Demo 1](https://cloud.githubusercontent.com/assets/17633442/24085138/819f4564-0ccc-11e7-9a2b-036e52be02e3.gif)
+![Demo 1](https://cloud.githubusercontent.com/assets/17633442/24091676/e6d740c8-0d1f-11e7-8f16-bd21961d9173.gif)
 
 ## Features
 - Get the price after a certain percentage off sale
