@@ -6,11 +6,14 @@ An iOS app that does simple purchase computations.
 ## Features
 - Get the price after a certain percentage off sale
 - Split the bill among a number of people
+- Convert USD to any currency (requires network connection: rates are always up to date)
 
 ## Future Work
 - **Allow only valid decimal numbers into textfields**
 - Add more design elements
-- Add another application
+- Add more features
+- Sort currencies
+- Add ability to select base currency
 
 ## Credits
 Icons: [Icons8](https://icons8.com/)
