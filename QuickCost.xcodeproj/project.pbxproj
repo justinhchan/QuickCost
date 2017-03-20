@@ -199,6 +199,7 @@
 				TargetAttributes = {
 					D06728381E7CF58200B54057 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 73KPPVP9ZW;
 						ProvisioningStyle = Automatic;
 					};
 					D067284E1E7CF58200B54057 = {
@@ -418,7 +419,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 73KPPVP9ZW;
 				INFOPLIST_FILE = QuickCost/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Justin.QuickCost;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -430,7 +433,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 73KPPVP9ZW;
 				INFOPLIST_FILE = QuickCost/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Justin.QuickCost;
 				PRODUCT_NAME = "$(TARGET_NAME)";
